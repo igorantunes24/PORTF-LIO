@@ -15,3 +15,4 @@ diminuiFonteBotao.addEventListener('click',function(){
     document.body.style.fontSize=`${tamanhoAtualFonte}rem`
     
     })
+})
